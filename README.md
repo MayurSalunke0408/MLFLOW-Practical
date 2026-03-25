@@ -1,0 +1,5 @@
+![1 MLflow](https://github.com/user-attachments/assets/42d8cf80-d2d3-419e-823f-6e1900ceb5f0)
+![2 MLflow](https://github.com/user-attachments/assets/7daff1d9-c81f-4387-8b19-63619ba231e0)
+![3 MLflow](https://github.com/user-attachments/assets/6eb14b83-5d69-461b-b548-a539e87bb5f1)
+![4 MLflow](https://github.com/user-attachments/assets/882da526-045c-42a0-a73b-0cf132862757)
+![5 MLflow](https://github.com/user-attachments/assets/7f6c705e-f731-4015-88c9-2ba151a6a451)
